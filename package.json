@@ -1,11 +1,11 @@
 {
   "name": "fastify-simple-steam-login",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
     "fastify-plugin": "^3.0.1",
-    "simple-steam-login": "^0.1.3"
+    "simple-steam-login": "^0.1.4"
   },
   "type": "module",
   "repository": {
