@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "fastify-plugin": "^3.0.1",
-    "simple-steam-login": "^0.1.4"
+    "simple-steam-login": "^0.1.5"
   },
   "type": "module",
   "repository": {
